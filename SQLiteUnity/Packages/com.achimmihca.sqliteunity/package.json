@@ -1,0 +1,19 @@
+{
+    "name": "com.achimmihca.sqliteunity",
+    "version": "1.0.0",
+    "displayName": "SQLite for Unity",
+    "description": "SQLite for Unity. Based on SQLite precompiled binaries ( https://www.sqlite.org/download.html ) and Mono.Data.CSharp.dll (found in MonoBleedingEdge of Unity Editor install)",
+    "dependencies": {
+    },
+   "keywords": [
+      "database",
+      "sql",
+      "sqlite"
+    ],
+    "author": {
+      "name": "Andreas Stange",
+      "email": "anst.dev@gmail.com",
+      "url": "https://github.com/achimmihca/SQLiteUnity"
+    },
+	"samples": []
+}
